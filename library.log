@@ -1,0 +1,810 @@
+{"diagnosticCodes":[2304,2304,2304,2552,2304,2304,2552,2552,2304,2339,2304,1128],"level":"error"}
+{"diagnosticCodes":[2304,2304,2304,2552,2304,2304,2552,2552,2304,2339,2304,1128],"level":"error"}
+{"diagnosticCodes":[2304,2304,2304,2552,2304,2304,2552,2552,2304,2339,2304,1128],"level":"error"}
+{"diagnosticCodes":[2304],"level":"error"}
+{"diagnosticCodes":[2304,2304,2304,2552,2304,2304,2552,2552,2304,2339,2304,1128],"level":"error"}
+{"diagnosticCodes":[2304,2304,2304,2552,2304,2304,2552,2552,2304,2339,2304,1128],"level":"error"}
+{"diagnosticCodes":[2304],"level":"error"}
+{"diagnosticCodes":[2304],"level":"error"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"error"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 16 was not found"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 16 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 16 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeORMError: Relation with property path borrows in entity was not found."}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeORMError: Relation with property path borrows in entity was not found."}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeORMError: Relation with property path borrows in entity was not found."}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeORMError: Relation with property path borrows in entity was not found."}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"QueryFailedError: column \"authors.id\" must appear in the GROUP BY clause or be used in an aggregate function"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"QueryFailedError: column \"bookGenre.id\" must appear in the GROUP BY clause or be used in an aggregate function"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeError: result.map is not a function"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"TypeORMError: Relation with property path bookGenre in entity was not found."}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"QueryFailedError: column \"favorite_books_id\" of relation \"readers\" does not exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"QueryFailedError: column \"favorite_books_id\" of relation \"readers\" does not exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"QueryFailedError: column \"favorite_books_id\" of relation \"readers\" does not exist"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"QueryFailedError: null value in column \"book_id\" of relation \"favorite_books\" violates not-null constraint"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"QueryFailedError: column genre.books_id does not exist"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"QueryFailedError: column genre.books_id does not exist"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"QueryFailedError: column genre.books_id does not exist"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 31 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 17 was not found"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 17 was not found"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"error","message":"Error: Genre Not Found - The genre with id 155 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 20 was not found"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"error","message":"Error: Genre Not Found - The genre with id 404 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"QueryFailedError: insert or update on table \"favorite_books\" violates foreign key constraint \"fk_favorite_book\""}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Error: Not Found - The genre with id 44 was not found"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Not Found - The genre with id 44 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 44 was not found"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"error","message":"Unprocessable Entity - The genre with id 422 was not found"}
+{"level":"error","message":"Error: Unprocessable Entity - The genre with id 422 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"error","message":"Not Found - book not exist"}
+{"level":"error","message":"Error: Not Found - book not exist"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"info","message":"the book genre for book with ID 700 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /v2/books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"error","message":"invalid input syntax for type bigint: \"{\"books_id\":28,\"books_name\":\"Asterisks and Quotations\",\"books_author_id\":2,\"books_genre_id\":4,\"authors_id\":2,\"authors_first_name\":\"Kelley\",\"authors_last_name\":\"Mechic\",\"genre_id\":4,\"genre_name\":\"science fiction\",\"mostBorrowsAmount\":\"1\"}\""}
+{"level":"error","message":"QueryFailedError: invalid input syntax for type bigint: \"{\"books_id\":28,\"books_name\":\"Asterisks and Quotations\",\"books_author_id\":2,\"books_genre_id\":4,\"authors_id\":2,\"authors_first_name\":\"Kelley\",\"authors_last_name\":\"Mechic\",\"genre_id\":4,\"genre_name\":\"science fiction\",\"mostBorrowsAmount\":\"1\"}\""}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"error","message":"invalid input syntax for type bigint: \"{\"books_id\":28,\"books_name\":\"Asterisks and Quotations\",\"books_author_id\":2,\"books_genre_id\":4,\"authors_id\":2,\"authors_first_name\":\"Kelley\",\"authors_last_name\":\"Mechic\",\"genre_id\":4,\"genre_name\":\"science fiction\",\"mostBorrowsAmount\":\"1\"}\""}
+{"level":"error","message":"QueryFailedError: invalid input syntax for type bigint: \"{\"books_id\":28,\"books_name\":\"Asterisks and Quotations\",\"books_author_id\":2,\"books_genre_id\":4,\"authors_id\":2,\"authors_first_name\":\"Kelley\",\"authors_last_name\":\"Mechic\",\"genre_id\":4,\"genre_name\":\"science fiction\",\"mostBorrowsAmount\":\"1\"}\""}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"error","message":"invalid input syntax for type bigint: \"{\"books_id\":28,\"books_name\":\"Asterisks and Quotations\",\"books_author_id\":2,\"books_genre_id\":4,\"authors_id\":2,\"authors_first_name\":\"Kelley\",\"authors_last_name\":\"Mechic\",\"genre_id\":4,\"genre_name\":\"science fiction\",\"mostBorrowsAmount\":\"1\"}\""}
+{"level":"error","message":"QueryFailedError: invalid input syntax for type bigint: \"{\"books_id\":28,\"books_name\":\"Asterisks and Quotations\",\"books_author_id\":2,\"books_genre_id\":4,\"authors_id\":2,\"authors_first_name\":\"Kelley\",\"authors_last_name\":\"Mechic\",\"genre_id\":4,\"genre_name\":\"science fiction\",\"mostBorrowsAmount\":\"1\"}\""}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader omer has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yoav has been added"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'mostBorrowsAmount')"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"info","message":"the book genre for book with ID 3 has been changed"}
+{"level":"info","message":"PATCH /books/3/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"GET /books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"POST /readers"}
+{"level":"info","message":"The reader Yael has been added"}
+{"level":"info","message":"POST /readers"}
+{"level":"error","message":"Error: Not Found - One or more favorite books not found - please check that all book IDs exist"}
+{"level":"info","message":"PATCH /books/700/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /books/2/genre"}
+{"level":"error","message":"Not Found - The genre with id 700 was not found"}
+{"level":"error","message":"Error: Not Found - The genre with id 700 was not found"}
+{"level":"info","message":"GET /v2/books/favorites"}
+{"level":"info","message":"Successful operation getting most borrows books"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"error","message":"Unprocessable Entity - The genre with id 422 was not found"}
+{"level":"error","message":"Error: Unprocessable Entity - The genre with id 422 was not found"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"info","message":"the book genre for book with ID 2 has been changed"}
+{"level":"info","message":"PATCH /v2/books/2/genre"}
+{"level":"error","message":"Unprocessable Entity - The genre with id 4432 was not found"}
+{"level":"error","message":"Error: Unprocessable Entity - The genre with id 4432 was not found"}
+{"level":"info","message":"PATCH /v2/books/543/genre"}
+{"level":"error","message":"Not Found - Book doesn't exist"}
+{"level":"error","message":"Error: Not Found - Book doesn't exist"}
