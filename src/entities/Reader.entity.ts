@@ -1,6 +1,13 @@
-import { Column, Entity, JoinColumn, JoinTable, ManyToMany, ManyToOne, OneToMany, PrimaryGeneratedColumn } from "typeorm";
-import { Book } from "./Book.entity";
+import {
+  Column,
+  Entity,
+  JoinTable,
+  ManyToMany,
+  OneToMany,
+  PrimaryGeneratedColumn,
+} from "typeorm";
 import { Borrow } from "./Borrow.entity";
+import { Book } from "./Book.entity";
 
 @Entity("readers")
 export class Reader {
@@ -13,10 +20,12 @@ export class Reader {
   @Column()
   lastName: string;
 
-  @OneToMany(() => Borrow, (borrows) => borrows.book)
-  borrow: Borrow[];
+  @OneToMany(() => Borrow, (borrow) => borrow.reader)
+  borrows: Borrow[];
 
-  @ManyToMany(() => Book, (book) => book.readers, { onDelete: "CASCADE" })
+
+  
+  @ManyToMany(() => Book, (book) => book.favoritedBy)
   @JoinTable({
     name: "favorite_books",
     joinColumn: {
@@ -28,6 +37,5 @@ export class Reader {
       referencedColumnName: "id",
     },
   })
-  @JoinColumn([{ name: "favoriteBooks"}])
   favoriteBooks: Book[];
 }

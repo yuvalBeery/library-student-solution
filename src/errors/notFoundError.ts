@@ -1,7 +1,7 @@
 import { StatusCodes } from "http-status-codes";
-import { libraryError } from "./libraryError";
+import { LibraryError } from "./library.error";
 
-export class NotFoundError extends libraryError {
+export class NotFoundError extends LibraryError {
   constructor(details: string) {
     super(StatusCodes.NOT_FOUND, "Not Found", details);
   }

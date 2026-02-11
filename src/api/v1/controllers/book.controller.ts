@@ -1,43 +1,50 @@
 import { Request, Response, NextFunction } from "express";
+import { Book } from "../../../entities/Book.entity";
 import {
-  updateBook, getMostBorrowsBooks
+  getFavoriteBooks,
+  changeBookGenre,
+
 } from "../services/book.service";
 import { StatusCodes } from "http-status-codes";
-import logger from "../../../logger/logger";
 
-const updateBookHandler = async (
+const getFavoriteBooksHandler = async (
   req: Request,
   res: Response,
   next: NextFunction
 ): Promise<void> => {
   try {
-    await updateBook(Number(req.params.bookId), req.body.genreId);
-
-    logger.info(`the book genre for book with ID ${(req.params.bookId)} has been changed`)
-    res.status(StatusCodes.OK).send(`the book genre for book with ID ${(req.params.bookId)} has been changed`);
-  } catch (error) {
-    logger.error(error.message)
-    next(error);
+    const books: Book[] = await getFavoriteBooks();
+    
+    res.status(StatusCodes.OK).json(books);
+  } catch (err: unknown) {
+    next(err);
   }
 };
 
-
-const getMostBorrowsBooksHandler = async (
+const changeBookGenreHandler = async (
   req: Request,
   res: Response,
   next: NextFunction
 ): Promise<void> => {
   try {
-    const mostBorrows = await getMostBorrowsBooks();
+    const { genreId } = req.body;
+    const { bookId } = req.params;
 
-    logger.info(`Successful operation getting most borrows books`)
-    res.status(StatusCodes.OK).send(mostBorrows);
-  } catch (error) {
-    logger.error(error.message);
-    next(error);
+    await changeBookGenre(+genreId, +bookId );
+
+    res.status(StatusCodes.OK)
+    .json(`the book genre for book with ID ${bookId} has been changed`);
+  } catch (err: unknown) {
+    next(err);
   }
 };
+
+
+
+
 
 export {
-  updateBookHandler, getMostBorrowsBooksHandler
+  getFavoriteBooksHandler,
+  changeBookGenreHandler,
+
 };

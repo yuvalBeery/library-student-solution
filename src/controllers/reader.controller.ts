@@ -1,22 +1,30 @@
 import { Request, Response, NextFunction } from "express";
-import { StatusCodes } from "http-status-codes";
-import { createReader } from "../services/reader.service";
-import logger from "../logger/logger";
+import { Reader } from "../entities/Reader.entity";
+import {
+  createReader,
 
-// Requirement 2: Create new Reader
+} from "../services/reader.service";
+import { StatusCodes } from "http-status-codes";
+
 const createReaderHandler = async (
   req: Request,
   res: Response,
   next: NextFunction
 ): Promise<void> => {
+  
   try {
-    const savedReader = await createReader(req.body);
+    const { firstName, lastName, favoriteBooks } = req.body;
+    await createReader( firstName, lastName, favoriteBooks);
 
-    logger.info(`The reader ${savedReader.firstName} has been added`)
-    res.status(StatusCodes.CREATED).json(`The reader ${savedReader.firstName} has been added`);
-  } catch (error) {
-    next(error);
+    res.status(StatusCodes.OK).json(`the reader ${firstName} has been added`);
+  } catch (err: unknown) {
+    next(err);
   }
 };
 
-export {createReaderHandler}
+
+
+export {
+  createReaderHandler,
+
+};

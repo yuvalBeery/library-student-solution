@@ -2,13 +2,13 @@ import cors from "cors";
 import express from "express";
 import { myDataSource } from "./connection/data-source";
 import logger from "./logger/logger";
-import { loggerMiddleware } from "./middleware/logger.middleware";
-import readerRouter from "./routers/reader.router"
-// import bookRouter from "./routers/book.router";
-import { errorHandler } from "./middleware/errorHandler.middleware";
-import bookRouter from "./api/v1/routers/book.router"
+import { errorHandler } from "./middlewawres/errorHandler.middleware";
+import { loggerMiddleware } from "./middlewawres/logger.middleware";
+import bookRouterV1 from "./api/v1/routes/book.router";
+import readerRouterV1 from "./api/v1/routes/reader.router";
 
-import bookRouterV2 from "./api/v2/routers/book.router"
+import bookRouter from "./routes/book.router";
+import readerRouter from "./routes/reader.router";
 myDataSource
   .initialize()
   .then(async () => {
@@ -17,12 +17,17 @@ myDataSource
     app.use(express.json());
     
     app.use(loggerMiddleware);
-    app.use("/readers", readerRouter); 
-    app.use("/books", bookRouter)
-    
-    app.use("/v2/books", bookRouterV2)
 
+
+    app.use("/books",bookRouter)
+    app.use("/readers",readerRouter)
+
+    app.use("/v1/books",bookRouterV1)
+    app.use("/v1/readers",readerRouterV1)
+    
     app.use(errorHandler);
+
+
     const port = 3000;
    
     app.listen(port, () => {

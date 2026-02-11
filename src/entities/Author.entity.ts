@@ -12,6 +12,6 @@ export class Author {
   @Column()
   lastName: string;
 
-  @OneToMany(() => Book, (books) => books.author)
-  books: Book[];
+  @OneToMany(() => Book, (book) => book.author)
+  book: Book[];
 }

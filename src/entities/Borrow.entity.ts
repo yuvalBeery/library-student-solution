@@ -1,4 +1,5 @@
-import { Column, Entity, ManyToOne, PrimaryColumn } from "typeorm";
+import { Column, Entity, JoinColumn, ManyToOne, PrimaryColumn } from "typeorm";
+import { Reader } from "./Reader.entity";
 import { Book } from "./Book.entity";
 
 @Entity("borrows")
@@ -18,6 +19,11 @@ export class Borrow {
   @Column({ default: () => "false" })
   didReturn: boolean;
 
-  @ManyToOne(() => Book, (book) => book.borrow)
-  book: Book[];
+  @ManyToOne(() => Reader, (reader) => reader.borrows)
+  @JoinColumn([{ name: "reader_id" }])
+  reader: Reader;
+
+  @ManyToOne(() => Book, (book) => book.borrows)
+  @JoinColumn([{ name: "book_id" }])
+  book: Book;
 }
